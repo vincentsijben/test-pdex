@@ -1,3 +1,3 @@
 # test-pdex
 
-Use this startercode: [pde://github.com/vincentsijben/test-pdex/raw/main/startercode-mmt3.pdex](pde://github.com/vincentsijben/test-pdex/raw/main/startercode-mmt3.pdex).
+Use this startercode: <a href="pde://github.com/vincentsijben/test-pdex/raw/main/startercode-mmt3.pdez">pde://github.com/vincentsijben/test-pdex/raw/main/startercode-mmt3.pdez</a>.
